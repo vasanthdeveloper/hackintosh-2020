@@ -25,6 +25,16 @@
 			<array>
 				<dict>
 					<key>Comment</key>
+					<string>change EC0 to EC</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>RUMwXw==</data>
+					<key>Replace</key>
+					<data>RUNfXw==</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
 					<string>change SAT0 to SATA</string>
 					<key>Disabled</key>
 					<false/>
@@ -55,7 +65,7 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
-					<string>fix 300-series RTC bug</string>
+					<string>Fix 300-series RTC Bug</string>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
