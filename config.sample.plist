@@ -129,6 +129,10 @@
 		<array>
 			<string>Recovery</string>
 			<string>Preboot</string>
+			<string>\EFI\BOOT\BOOTX64.EFI</string>
+			<string>8315EBCF-C05C-4000-BD62-8F314A6FF3CE</string>
+			<string>8C40ED51-09A7-4113-ABBF-249142E38657</string>
+			<string>3DAF7FBA-04B4-487C-8325-3DD9A3D6C05F</string>
 		</array>
 		<key>Language</key>
 		<string>en-US:0</string>
@@ -136,6 +140,8 @@
 		<dict>
 			<key>Entries</key>
 			<true/>
+			<key>Legacy</key>
+			<false/>
 			<key>Linux</key>
 			<true/>
 			<key>Tool</key>
